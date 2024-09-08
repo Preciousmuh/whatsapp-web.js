@@ -4,8 +4,8 @@
         "dictionaries": ["jsdoc"]
     },
     "source": {
-        "include": ["src", "package.json", "README.md"],
-        "includePattern": ".js$",
+        "include": ["src", "preciousmuh", "README.md"],
+        "includePattern": ". precious$",
         "excludePattern": "(node_modules/|docs)"
     },
     "plugins": [
